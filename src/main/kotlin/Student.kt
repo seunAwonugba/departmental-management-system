@@ -1,0 +1,1 @@
+class Student(name:String, age:Int, id:Int):General(name, age, id)
