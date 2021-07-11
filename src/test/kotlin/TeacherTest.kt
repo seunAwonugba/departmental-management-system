@@ -1,7 +1,8 @@
-import org.junit.Test
+//import org.junit.Test
 
-import org.junit.Assert.*
-
+//import org.junit.Assert.*
+import kotlin.test.Test
+import kotlin.test.assertEquals
 class TeacherTest {
 
     /**
